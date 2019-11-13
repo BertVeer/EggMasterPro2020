@@ -6,9 +6,10 @@ The Ultimate Egg Timer for Arduboy
 This will turn your Arduboy into a full-fledged egg timer with configurable options.\
 Always have your eggs boiled perfectly from now on!
 
-[User Manual (PDF)](/docs/EggMasterPro2020.pdf)
+### User Manual
+[View/download (PDF)](/docs/EggMasterPro2020.pdf)
 
-Quick Keys:
+### Quick Keys:
 ```
   UP/DOWN    - Move cursor
   A          - Select
@@ -16,6 +17,6 @@ Quick Keys:
   LEFT + B   - Options
 ```  
 
-## About the code
+## About The Code
 This is my entry for the Arduboy Game Jam 4.\
 Compiled with Arduino 1.8.8
