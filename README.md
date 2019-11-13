@@ -12,10 +12,10 @@ Quick Keys:
 ```
   UP/DOWN    - Move cursor
   A          - Select
-  B          - Back
+  B          - Back / Reset
   LEFT + B   - Options
 ```  
 
 ## About the code
-This is my entry for the Arduboy Game Jam 4.
+This is my entry for the Arduboy Game Jam 4.\
 Compiled with Arduino 1.8.8
