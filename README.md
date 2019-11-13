@@ -12,5 +12,5 @@ Keys:
   LEFT + B   - Options
 ```  
 
-##About the code
+## About the code
 This is my entry for the Arduboy Game Jam 4.
