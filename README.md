@@ -6,10 +6,10 @@ The Ultimate Egg Timer for Arduboy
 This will turn your Arduboy into a full-fledged egg timer with configurable options.\
 Always have your eggs boiled perfectly from now on!
 
-## User Manual
+### User Manual
 [View/download (PDF)](/docs/EggMasterPro2020.pdf)
 
-## Quick Keys:
+### Quick Keys:
 ```
   UP/DOWN    - Move cursor
   A          - Select
